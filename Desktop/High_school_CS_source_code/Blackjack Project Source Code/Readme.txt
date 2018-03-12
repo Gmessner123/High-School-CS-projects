@@ -1,0 +1,2 @@
+Blackjack Project - Grant Messner
+A WWE themed game of blackjack that the user can play, using the standard blackjack rules. I tried to implement some more advanced rules (e.g., double down, split, etc.) to varying degrees of success.
